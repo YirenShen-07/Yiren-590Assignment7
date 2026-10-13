@@ -17,7 +17,7 @@ Date-derived month and weekday features, categorical encoding, standard scaling,
 These are saved outputs from a single experiment, not newly reproduced results or a demonstrated improvement over a baseline.
 
 ## Explore and run
-Open [the notebook](Assignment7.ipynb) in Colab, provide the Retail Sales CSV, replace the personal Drive path, and install its dependencies. The notebook cites Mohammad Talib's Retail Sales Dataset on Kaggle.
+Open [the notebook](retail_transaction_classification.ipynb) in Colab, provide the Retail Sales CSV, replace the personal Drive path, and install its dependencies. The notebook cites Mohammad Talib's Retail Sales Dataset on Kaggle.
 
 ## Interpretation and limitations
 Integrated Gradients measures input attribution; the network does not have an attention mechanism.
